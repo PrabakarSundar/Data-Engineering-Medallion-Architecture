@@ -1,0 +1,9 @@
+kafka-python
+pandas
+apache-airflow
+elasticsearch
+boto3
+
+# pyspark==3.5.0
+# apache-airflow-providers-apache-spark
+# minio
